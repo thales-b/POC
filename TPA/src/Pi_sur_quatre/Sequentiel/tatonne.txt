@@ -1,0 +1,26 @@
+b20039330@V-PP-47-073:~/IdeaProjects/TPA/src/Pi_sur_quatre/Sequentiel$ java PiSurQuatre 100
+Nombre de tirages: 100 million(s).
+Estimation de Pi/4: 0,785445320
+Pourcentage d'erreur: 0,006004165 %
+Durée du calcul: 4,156 s.
+b20039330@V-PP-47-073:~/IdeaProjects/TPA/src/Pi_sur_quatre/Sequentiel$ java PiSurQuatre 1000
+Nombre de tirages: 1000 million(s).
+Estimation de Pi/4: 0,785402255
+Pourcentage d'erreur: 0,000520959 %
+Durée du calcul: 40,996 s.
+b20039330@V-PP-47-073:~/IdeaProjects/TPA/src/Pi_sur_quatre/Sequentiel$ java PiSurQuatre 700
+Nombre de tirages: 700 million(s).
+Estimation de Pi/4: 0,785386294
+Pourcentage d'erreur: 0,001511222 %
+Durée du calcul: 28,649 s.
+b20039330@V-PP-47-073:~/IdeaProjects/TPA/src/Pi_sur_quatre/Sequentiel$ java PiSurQuatre 800
+Nombre de tirages: 800 million(s).
+Estimation de Pi/4: 0,785412059
+Pourcentage d'erreur: 0,001769211 %
+Durée du calcul: 32,764 s.
+b20039330@V-PP-47-073:~/IdeaProjects/TPA/src/Pi_sur_quatre/Sequentiel$ java PiSurQuatre 750
+Nombre de tirages: 750 million(s).
+Estimation de Pi/4: 0,785383275
+Pourcentage d'erreur: 0,001895692 %
+Durée du calcul: 30,716 s.
+b20039330@V-PP-47-073:~/IdeaProjects/TPA/src/Pi_sur_quatre/Sequentiel$
